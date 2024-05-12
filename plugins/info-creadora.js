@@ -73,10 +73,10 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 conn.reply(m.chat, 'Mario.js', fkontak,  m)
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
-let teksbio = `𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-*Wa.me/573136855110*
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 💖🐈
-*wa.me/593993684821*
+let teksbio = `𝙑𝙚𝙜𝙚𝙩𝙩𝙖𝘽𝙤𝙩 💥
+*Wa.me/593992402778*
+𝙑𝙚𝙜𝙚𝙩𝙩𝙖𝘽𝙤𝙩 💥
+*wa.me/593992402778*
 *---------------------*
 *CENTER GATABOT*
 *centergatabot@gmail.com*
