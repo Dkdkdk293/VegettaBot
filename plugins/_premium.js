@@ -6,5 +6,5 @@ if (user.premiumTime != 0 && user.premium) {
 if (new Date() * 1 >= user.premiumTime) {
 await m.reply(`${lenguajeGB['smsAvisoAG']()}*@${m.sender.split`@`[0]}* ${lenguajeGB['smsPremI']()}`, false, { mentions: [m.sender] })
 user.premiumTime = 0
-user.premium = false
+user.premium = true
 }}}
