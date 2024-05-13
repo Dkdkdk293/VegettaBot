@@ -4,34 +4,27 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 let str = `💙 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝘼𝙎 𝘾𝙐𝙀𝙉𝙏𝘼𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
 💜 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘼𝘾𝘾𝙊𝙐𝙉𝙏𝙎
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-💖 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈
+𝘾𝙍𝙀𝘼𝘿𝙊𝙍 👺🔥
 ${bot}
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *GITHUB*
-*${md}*
+✅ *𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈*
+*https://www.instagram.com/sebas.mvp_official0*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *INSTAGRAM - ASISTENCIA*
-*${ig}*
+✅ *𝙔𝙊𝙐𝙏𝙐𝘽𝙀*
+*https://youtube.com/@mixmusicofficial-oy3hb*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *YOUTUBE*
-*${yt}*
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-✅ *FACEBOOK*
-*${fb}*
-┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-*Si tienen dudas, sugerencias, o preguntas solo escriban por Instagram.*\n
-*If you have doubts, suggestions or questions just write on Instagram.*`
+*Si tienen dudas, sugerencias, o preguntas solo escriban por Instagram.`
 await conn.sendButton(m.chat, str, wm, media, [
-['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝙂𝙧𝙤𝙪𝙥𝙨 🔰', '.grupos'],
-['𝘾𝙧𝙚𝙖𝙙𝙤𝙧𝙖 | 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 💗', '#owner'],
-['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], null, [
-['𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', md]], fkontak)}
+['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 🔰', '.grupos'],
+['𝘾𝙧𝙚𝙖𝙙𝙤𝙧 👺', '#owner'],
+['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']], null, [
+['𝙑𝙚𝙜𝙚𝙩𝙩𝙖𝘽𝙤𝙩', md]], fkontak)}
 //conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)
-/*conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/GataNina-Li/GataBot-MD', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [
-['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝙂𝙧𝙤𝙪𝙥𝙨 🔰', '.grupos'],
-['𝘾𝙧𝙚𝙖𝙙𝙤𝙧𝙖 | 𝘾𝙧𝙚𝙖𝙩𝙤𝙧 💗', '#owner'],
-['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
+/*conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/eduuusoo/VegettaBot', '𝙑𝙚𝙜𝙚𝙩𝙩𝙖𝘽𝙤𝙩', null, null, [
+['𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 🔰', '.grupos'],
+['𝘾𝙧𝙚𝙖𝙙𝙤𝙧 👺', '#owner'],
+['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ ☘️', '/menu']
 ], m,)}*/
-handler.command = /^cuentasoficiales|gataig|cuentasgb|cuentagb|accounts|gataaccounts|account|iggata|cuentasdegata|cuentasdegatabot|cuentagatabot|cuentasgatabot$/i
+handler.command = /^cuentasoficiales|vegettaig|cuentasvb|cuentagb|accounts|gataaccounts|account|igvegetta|cuentasdevegetta|cuentasdevegettabot|cuentavegettabot|cuentasvegettabot$/i
 handler.exp = 35
 export default handler
