@@ -1,27 +1,8 @@
 let handler  = async (m, { conn, usedPrefix, command }) => {
 let picture = './media/menus/Menu1.jpg'
-let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙂𝘼𝙏𝘼𝘽𝙊𝙏 🐈
+let gata = `𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝘾𝙄𝙊𝙉 𝘿𝙀 𝙑𝙀𝙂𝙀𝙏𝙏𝘼 𝘽𝙊𝙏 👺
 
-*━━━━━━━━━━━━━⬣*
-✅ 𝗜𝗡𝗦𝗧𝗔𝗟𝗔𝗥 𝗘𝗡 𝗕𝗢𝗫𝗠𝗜𝗡𝗘
-*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-*𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝘽𝙤𝙭𝙈𝙞𝙣𝙚*
-*_https://youtu.be/Ko019wvu2Tc_*
-*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-_PAGINA OFICIAL_ 
-_https://boxmineworld.com_
-*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-_Tutorial - Crea una cuenta en la Dashboard_
-_https://www.youtube.com/watch?v=ZAwBLuNmIlI_
-*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-_DASHBOARD_
-_https://dash.boxmineworld.com_
-*⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
-_PANEL_
-_https://panel.boxmineworld.com_
-*━━━━━━━━━━━━━⬣*
 
-*━━━━━━━━━━━━━⬣*
 ✅ 𝙄𝙉𝙎𝙏𝘼𝙇𝘼𝙍 𝙀𝙉 𝙏𝙀𝙍𝙈𝙐𝙓
 *⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯ ⎯*
 termux-setup-storage
@@ -39,7 +20,7 @@ _https://github.com/clhuang/heroku-buildpack-webp-binaries.git_
 *━━━━━━━━━━━━━⬣*`
 await 
 //conn.sendFile(m.chat, gataImg, 'lp.jpg', gata, fkontak, false, { contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👺 𝙎𝙪𝙥𝙚𝙧 𝙑𝙚𝙜𝙚𝙩𝙩𝙖 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: accountsgb }}})}
-conn.sendButton(m.chat, gata, `Comunícate con Mí Creadora si necesitas ayuda con la Instalación.\n\nContact My Creator if you need help with the Installation.\n\n${ig}\n${wm}`, picture, [
+conn.sendButton(m.chat, gata, `Comunícate con Mí Creador si necesitas ayuda con la Instalación.\n\n${ig}\n${wm}`, picture, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 ✅', '.cuentasgb'],
 ['🎁 𝘿𝙤𝙣𝙖𝙧 | 𝘿𝙤𝙣𝙖𝙩𝙚', '.donar']], 'termux-setup-storage\n\napt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/eduuusoo/VegettaBot/master/gata.sh | bash', fkontak)}
 handler.command = /^(instalarbot|instalarvegettabot|instalarvegetta|procesobot|botproceso|procesodelbot|botinstall|installbot)/i
