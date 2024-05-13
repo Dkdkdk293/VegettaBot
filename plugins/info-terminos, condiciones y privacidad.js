@@ -67,7 +67,7 @@ let username = conn.getName(who)
 //let user = global.db.data.users[m.sender]
 //user.registered = false
 
-let Terminos = `*_Toda la informacion que se mencione aqui no excluye a la Propietaria del Bot, y Propietarios Acredores al uso de GataBot-MD_*
+let Terminos = `*_Toda la informacion que se mencione aqui no excluye a la Propietaria del Bot, y Propietarios Acredores al uso de VegettaBot_*
 *_No Somos responsables del desconocimiento que tenga por parte de esta informacion._* 
 
 
@@ -122,10 +122,10 @@ _- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodi
 ~ _Si te Agrada y valoras el Trabajo que he realizado, puedes ayudarme en Donar para que pueda continuar en este Proyecto_
 *https://paypal.me/OficialGD*
 
-*~ Muchas Gracias Por tomarte el tiempo en informate sobre GataBot*` 
+*~ Muchas Gracias Por tomarte el tiempo en informate sobre VegettaBot*` 
 await conn.sendFile(m.chat, pp, 'gata.mp4', Terminos)
 /*.trim()
-conn.sendHydrated(m.chat, Terminos,  `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial | https://www.instagram.com/gata_dios`, pp, 'https://github.com/GataNina-Li/GataBot-MD', '饾檪饾櫀饾櫓饾櫀饾樈饾櫎饾櫓-饾檲饾樋', null, null, [
+conn.sendHydrated(m.chat, Terminos,  `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial | https://www.instagram.com/sebas.mvp_official0`, pp, 'https://github.com/eduuusoo/VegettaBot', '饾檪饾櫀饾櫓饾櫀饾樈饾櫎饾櫓-饾檲饾樋', null, null, [
 ['饾檲饾櫄饾櫍饾櫔虂 饾櫂饾櫎饾櫌饾櫏饾櫋饾櫄饾櫓饾櫎 | 饾檨饾櫔饾櫋饾櫋 饾檲饾櫄饾櫍饾櫔 馃挮', '.allmenu'],
 ['饾檲饾櫄饾櫍饾櫔 饾櫃饾櫄饾櫒饾櫏饾櫋饾櫄饾櫆饾櫀饾櫁饾櫋饾櫄 | 饾檲饾櫄饾櫍饾櫔 饾檱饾櫈饾櫒饾櫓 馃専', '/menulista'],
 ['饾檲饾櫄饾櫍饾櫔 饾檵饾櫑饾櫈饾櫍饾櫂饾櫈饾櫏饾櫀饾櫋 | 饾檲饾櫀饾櫈饾櫍 饾櫌饾櫄饾櫍饾櫔 鈿?', '#menu']
