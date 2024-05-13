@@ -98,7 +98,7 @@ await conn.sendButton(m.chat, info, wm, pp, [
 ['𝙑𝙚𝙧 𝙂𝙧𝙪𝙥𝙤𝙨', '#grupolista'],
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 ✅', '/cuentasgb'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́', '.menu']], null, [
-['𝙑𝙚𝙜𝙚𝙩𝙩𝙖 𝘽𝙤𝙩', `${md}`]], fkontak)
+['𝙑𝙚𝙜𝙚𝙩𝙩𝙖 𝘽𝙤𝙩', `${ig}`]], fkontak)
 //conn.sendFile(m.chat, gataImg, 'lp.jpg', info, fkontak, false, { contextInfo: {externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 👺 𝙎𝙪𝙥𝙚𝙧 𝙑𝙚𝙜𝙚𝙩𝙩𝙖 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: gataImg, sourceUrl: accountsgb }}}) 
 /*let info = `
 ╭━━━━[ ${gt} ]━━━━━⬣
