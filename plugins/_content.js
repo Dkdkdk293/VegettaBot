@@ -54,9 +54,9 @@ global.redesMenu = [canal1, canal2, canal3, canal4, soporteGB, grupo1, grupo2, g
 global.accountsgb = [canal1, canal2, canal3, canal4, tk, ig, yt, paypal, fb, ths, md, asistencia].getRandom()
 
 var canalesInfo = [
-{ link: canal1, id: "120363160031023229@newsletter", name: "INFINITY-WA 💫" },
-{ link: canal2, id: "120363169294281316@newsletter", name: "GB - UPDATE ✨" },
-{ link: canal3, channel: "120363203805910750@newsletter", name: "Tips sobre GataBot 🤩" } 
+{ link: canal1, channel: "https://whatsapp.com/channel/0029Va8Ykl3F1YlR60HF5N3p", name: "𝙑𝙚𝙜𝙚𝙩𝙩𝙖 𝘽𝙤𝙩" },
+{ link: canal2, channel: "https://whatsapp.com/channel/0029Va8Ykl3F1YlR60HF5N3p", name: "𝙑𝙚𝙜𝙚𝙩𝙩𝙖 𝘽𝙤𝙩" },
+{ link: canal3, channel: "https://whatsapp.com/channel/0029Va8Ykl3F1YlR60HF5N3p", name: "𝙑𝙚𝙜𝙚𝙩𝙩𝙖 𝘽𝙤𝙩" } 
 ]
 var indiceAleatorio = Math.floor(Math.random() * canalesInfo.length)
 var channelRD = canalesInfo[indiceAleatorio]
