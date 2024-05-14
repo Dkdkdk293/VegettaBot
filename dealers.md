@@ -4,6 +4,6 @@
  
 | USUARIO          |   CÓDIGO                | CONTACTO    | ESTADO
 | ------------     | ------------            | ------------| ------------
-| [**Richetti123**](https://github.com/sebasmpv)        | `KmZxVE5lIUVvrkqLd8EYJlC9G` | `IG: @sebas.mvp_oficial0` | ✅
+| [**Sebasmpv**](https://github.com/sebasmpv)        | `KmZxVE5lIUVvrkqLd8EYJlC9G` | `IG: @sebas.mvp_oficial0` | ✅
 | ⚪        | ⚪               |  ⚪ | ⚪
 
