@@ -21,7 +21,7 @@ Al utilizar este proyecto, ya sea como anfitrión de ejecución del código o co
 <details>
 <summary><b>DERECHOS DE PROPIEDAD INTELECTUAL</b></summary>
   
-> **Este repositorio, alojado originalmente en [GitHub](https://github.com/GataNina-Li/GataBot-MD), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
+> **Este repositorio, alojado originalmente en [GitHub](https://github.com/Dkdkdk293/VegettaBot), incluye complementos que han sido creados bajo la propiedad exclusiva de este repositorio.**
 
 1.	`Complementos bajo Propiedad del Repositorio:` Los complementos contenidos en este repositorio han sido desarrollados y son propiedad exclusiva del mismo. Cualquier reproducción, distribución o uso no autorizado de estos complementos está estrictamente prohibido y sujeto a las leyes de propiedad intelectual.
 
