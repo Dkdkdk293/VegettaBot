@@ -8,7 +8,7 @@ if (process.send) { process.send('uptime')
 _muptime = await new Promise(resolve => { process.once('message', resolve) 
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
-let bio = `${global.packname} ║ ✅ ${uptime} ⌛ ║ ${[`𝘼𝘾𝙏𝙄𝙑𝙊 @𝙎𝙚𝙗𝙭𝙨𝙨`, `👺`, `@𝙎𝙚𝙗𝙖𝙨`].getRandom()}`
+let bio = `${global.packname} ║ ✅ ${uptime} ⌛ ║ ${[`𝙈𝙮𝘾𝙧𝙚𝙖𝙩𝙤𝙧@𝙎𝙚𝙗𝙭𝙨𝙨`, `👺`, `@𝙎𝙚𝙗𝙖𝙨`].getRandom()}`
 await this.updateProfileStatus(bio).catch(_ => _)
 //await this.updateProfilePicture(gataImg.getRandom()).catch(_ => _)
 setting.status = new Date() * 1
