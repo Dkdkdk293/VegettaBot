@@ -7,7 +7,7 @@ let chat = global.db.data.chats[m.chat]
 let name = conn.getName(m.sender)
 if (chat.isBanned) return
 let vn = 'https://qu.ax/Ocxm.mp3'
-let bot = `${pickRandom([`*¡𝙀𝙔! 𝘼𝙌𝙐𝙄 𝙀𝙎𝙏𝙊𝙔. 𝙔𝙊 𝙋𝙐𝙀𝘿𝙊 𝘼𝙔𝙐𝘿𝘼𝙍 👉👈 𝑯𝒆𝒚! 𝑰'𝒎 𝒉𝒆𝒓𝒆. 𝑰 𝒄𝒂𝒏 𝒉𝒆𝒍𝒑 🙌*`, `𝘼𝙌𝙐𝙄 𝘼𝙉𝘿𝙊 𝙈𝙄 𝙀𝙎𝙏𝙄𝙈𝘼𝘿𝙊 😸`, `*𝙃𝙊𝙇𝘼, ¿𝙀𝙉 𝙌𝙐𝙀 𝙏𝙀 𝙋𝙐𝙀𝘿𝙊 𝘼𝙔𝙐𝘿𝘼𝙍?😸*`])}`.trim()
+let bot = `${pickRandom([`*𝙃𝙊𝙇𝘼, ¿𝙀𝙉 𝙌𝙐𝙀 𝙏𝙀 𝙋𝙐𝙀𝘿𝙊 𝘼𝙔𝙐𝘿𝘼𝙍?😸*`])}`.trim()
 let txt = `*\`💫 Te presentamos un nuevo hosting: "Infinity-Wa Host"\`*
 
 *¿Muy lento tu nokia y necesitas tener activo tu bot 24/7?*
