@@ -24,7 +24,7 @@ let text =
 ⇢ ${lenguajeGB['smsGI9']()}
 ${listAdmin}
 
-*《 - - - - - - - 𓃠 ${vs} - - - - - - - 》*
+*《 - - - - - - - ♡︎ ${vs} ♡︎ - - - - - - - 》*
 `.trim()
   
 await conn.sendFile(m.chat, pp, 'error.jpg', text, m, false, { mentions: [...groupAdmins.map(v => v.id), owner] })   
