@@ -219,7 +219,7 @@ ${generateCommand(commandsReport, usedPrefix)}
 
 ${margen}
 
-> 🪅 *GATABOT TEMPORAL* 🪅\n
+> 🪅 *VEGETTABOT TEMPORAL* 🪅\n
 ${generateCommand(commandsLink, usedPrefix)}
 
 ${margen}
@@ -528,7 +528,7 @@ ${margen}
 
 ✓ _${usedPrefix}fytendencia | fyranking_
 
-> 🏆 *TOP en GATABOT* 🏆
+> 🏆 *TOP en VEGETTA* 🏆
 
 ✓ _${usedPrefix}top | lb | leaderboard_
 
@@ -565,7 +565,7 @@ ${margen}
 ✓ _${usedPrefix}besar | kiss *@tag*_
 ✓ _${usedPrefix}alimentar | food *@tag*_
 
-> 💎 *PARA MI CREADOR/A* 💎
+> 💎 *PARA MI CREADOR* 💎
 
 ✓ _${usedPrefix}join *enlace*_
 ✓ _${usedPrefix}unete *enlace*_
@@ -724,16 +724,16 @@ const commandsGames = [
 { comando: 'delttt', descripcion: false, contexto: 'Cerrar/abandonar la partida 🚪', showPrefix: true },
 { comando: 'topgays', descripcion: false, contexto: 'Clasificación de usuarios Gays 🏳️‍🌈', showPrefix: true },
 { comando: 'topotakus', descripcion: false, contexto: 'Clasificación de usuarios Otakus 🎌', showPrefix: true },
-{ comando: 'toppajer@s', descripcion: false, contexto: 'Clasificación de usuarios pajeros 🥵', showPrefix: true },
-{ comando: 'topintegrantes', descripcion: false, contexto: 'Mejores usuarios 👑', showPrefix: true },
+{ comando: 'toppajer@s', descripcion: false, contexto: '𝙏𝘼𝘽𝙇𝘼 𝘿𝙀 𝙋𝘼𝙅𝙀𝙍𝙇𝙎 🥵', showPrefix: true },
+{ comando: 'topintegrantes', descripcion: false, contexto: '𝙈𝙀𝙅𝙊𝙍𝙀𝙎 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 👑', showPrefix: true },
 { comando: 'toplagrasa', descripcion: false, contexto: 'Usuarios más grasosos XD', showPrefix: true },
-{ comando: 'toplind@s', descripcion: false, contexto: 'Los más lindos 😻', showPrefix: true },
-{ comando: 'topput@s', descripcion: false, contexto: 'Los más p**** 🫣', showPrefix: true },
+{ comando: 'toplind@s', descripcion: false, contexto: '𝙇𝙊𝙎 𝙈𝘼𝙎 𝙇𝙄𝙉𝘿𝙊𝙎 😻', showPrefix: true },
+{ comando: 'topput@s', descripcion: false, contexto: '𝙇𝙊𝙎 𝙈𝘼𝙎 𝙋𝙏𝙊𝙎🥵', showPrefix: true },
 { comando: 'toppanafrescos', descripcion: false, contexto: 'Los que más critican 🗿', showPrefix: true },
-{ comando: 'topshiposters', descripcion: false, contexto: 'Los que se creen graciosos 🤑', showPrefix: true },
-{ comando: 'topfamosos', descripcion: false, contexto: 'Los más conocidos ☝️', showPrefix: true },
+{ comando: 'topshiposters', descripcion: false, contexto: '𝙇𝙊𝙎 𝙌𝙐𝙀 𝙎𝙀 𝘾𝙍𝙀𝙀𝙉 𝙂𝙍𝘼𝘾𝙄𝙊𝙎𝙊 🤑', showPrefix: true },
+{ comando: 'topfamosos', descripcion: false, contexto: '𝙇𝙊𝙎 𝙈𝘼𝙎 𝘾𝙊𝙉𝙊𝘾𝙄𝘿𝙊 ☝️', showPrefix: true },
 { comando: 'topparejas', descripcion: false, contexto: 'Las 5 mejores 💕', showPrefix: true },
-{ comando: 'gay', descripcion: '[@tag]', contexto: 'Perfil Gay 😲', showPrefix: true },
+{ comando: 'gay', descripcion: '[@tag]', contexto: '𝙀𝙇 𝙈𝘼𝙎 𝙑𝙄𝙍𝘼𝘿𝙊(𝙂𝙀𝙔) 😲', showPrefix: true },
 { comando: 'gay2', descripcion: '[@tag] o [nombre] || [@tag] or [name]', contexto: '(%) de Gay', showPrefix: true },
 { comando: 'lesbiana', descripcion: '[@tag] o [nombre] || [@tag] or [name]', contexto: '(%) de Lesbiana', showPrefix: true },
 { comando: 'manca', descripcion: '[@tag] o [nombre] || [@tag] or [name]', contexto: '(%) de Manca', showPrefix: true },
