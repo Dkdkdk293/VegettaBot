@@ -101,7 +101,7 @@ externalAdReply: {
 title: wm,
 body: '🌟 Puede modificar su registro antes de finalizar',
 thumbnailUrl: pp, 
-sourceUrl: 'https://www.atom.bio/gatabot/',
+sourceUrl: 'https://atom.bio/sebas_official',
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
