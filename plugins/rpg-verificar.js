@@ -581,7 +581,7 @@ externalAdReply: {
 title: wm,
 body: user.name,
 thumbnailUrl: pp, 
-sourceUrl: 'https://www.atom.bio/gatabot/',
+sourceUrl: 'https://atom.bio/sebas_official',
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: true
