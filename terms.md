@@ -64,7 +64,7 @@ Si, de alguna manera, una persona menor de esa edad utiliza el código o el bot,
 <summary><b>LICENCIA DE DISTRIBUCIÓN</b></summary>
 
 - [x] **1. AUTORIZADOS**<br>
-> **Distribución autorizada del código solo con [permiso](https://www.atom.bio/gatabot/).**
+> **Distribución autorizada del código solo con [permiso](https://atom.bio/sebas_official).**
 
 Solo las personas debidamente autorizadas por la propietaria tienen permiso para distribuir el código, ya sea con fines comerciales o educativos. La lista de distribuidores autorizados, quienes han solicitado y obtenido permiso, estará disponible públicamente.
 Si deseas utilizar este código con fines comerciales y no cuentas con el permiso de la propietaria, debes contactarte formalmente a través de sus canales oficiales para solicitar autorización.
