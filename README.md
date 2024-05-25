@@ -355,8 +355,8 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ----
 
 ### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
+<a href="https://github.com/Dkdkdk293/VegettaBot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Dkdkdk293/VegettaBot" /> 
 </a>
 
 ### 🌟 AGRADECIMIENTOS
