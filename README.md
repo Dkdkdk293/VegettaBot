@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/sebasmvp"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/sebasmvp"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=VegettaBot++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="VegettaBot" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://www.icegif.com/wp-content/uploads/2022/10/icegif-1832.gif" height="28px">
 </p>  
 
@@ -40,7 +40,7 @@
 | **TERMUX** | ***INSTALACIÓN MANUAL*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-opción-2-instalación-manual-por-termux---github) |
 | **TERMUX** | ***INSTALACIÓN POR ARCHIVOS*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-opción-3-instalación-por-termux---archivos) |
 | **TERMUX 24/7** | ***COMANDOS*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-usar-gatabot-247-en-termux) |
-| **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR GATABOT*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-actualizar-gatabot) |
+| **TERMUX UPDATE** | ***COMANDOS PARA ACTUALIZAR VEGETTABOT*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-actualizar-gatabot) |
 | **WINDOWS** | ***INSTALACIÓN POR WINDOWS*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-para-usuarios-de-windowsvpsrdp) |
 | **DESARROLLADORES** | ***PARTICIPATES DEL PROYECTO*** |[ver](https://github.com/Dkdkdk293/VegettaBot/#-creadora) |
 -----
