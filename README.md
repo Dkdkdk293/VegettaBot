@@ -1,4 +1,4 @@
-### 𝙑𝙀𝙂𝙀𝙏𝙏𝘼 𝘽𝙊𝙏
+### 𝙑𝙀𝙂𝙀𝙏𝙏𝘼 𝘽𝙊𝙏 😸💫
  
 <p align="center">
 <img src="https://i.imgur.com/UGvr1mz.jpeg" alt="VegettaBot" width="800"/>
