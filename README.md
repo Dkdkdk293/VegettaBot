@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://i.imgur.com/UGvr1mz.jpeg" alt="VegettaBot" width="800"/>
   
-> Antes de usar este repositorio, visita la **[Política de VegettaBot. 😼](https://github.com/Dkdkdk293/VegettaBot/blob/master/terms.md)** 
+> Antes de usar este repositorio, visita la **[Política de VegettaBot. 🫂❤️](https://github.com/Dkdkdk293/VegettaBot/blob/master/terms.md)** 
 </p>
 
 <p align="center">
