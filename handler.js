@@ -1453,7 +1453,7 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": [wm, '👺🔥 𝙎𝙪𝙥𝙚𝙧 ' + gt + ' 🔥', '🌟 centergatabot.gmail.com'].getRandom(),
+"title": [wm, '👺🔥 𝙎𝙪𝙥𝙚𝙧 ' + gt + ' 🔥', '🌟 contactovegettabot@gmail.com'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
 sourceUrl: accountsgb }}}, { quoted: fkontak2 })
